@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on myself<br>👯 I’m looking to collaborate on testing jailbreak tweaks<br>🤝 I’m looking for help with developing an iOS application<br>🌱 I’m currently learning swift language<br>💬 Ask me about ETA<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on myself<br>👯 I’m looking to collaborate on testing jailbreak tweaks<br>🤝 I’m looking for help with developing an iOS application<br>🌱 I’m currently learning swift language<br>💬 Ask me about ETA<br>⚡ Fun fact - I am lazy
 
 
 ## 🌐 Socials:
